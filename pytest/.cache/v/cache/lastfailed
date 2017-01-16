@@ -1,0 +1,4 @@
+{
+  "child1/test_sample1.py::test_answer": true, 
+  "test_sample.py::test_answer": true
+}
